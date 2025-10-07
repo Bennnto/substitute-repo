@@ -1,0 +1,19 @@
+{
+  "name": "CLI Assistant",
+  "description": "Launch CLI Assistant in Terminal",
+  "script": "/Users/ben/PythonApp/Cli-App/ice_cli_assistant.sh",
+  "icon": "terminal",
+  "menu": {
+    "title": "CLI Assistant",
+    "items": [
+      {
+        "title": "Launch CLI Assistant",
+        "script": "/Users/ben/PythonApp/Cli-App/ice_cli_assistant.sh"
+      },
+      {
+        "title": "Open Script Directory",
+        "script": "open /Users/ben/PythonApp/Cli-App"
+      }
+    ]
+  }
+} 

@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "name": "Backup Job",
+      "schedule": "Custom",
+      "command": "System backup",
+      "logging": "No logging",
+      "enabled": true,
+      "created": "2025-08-01T20:49:54.539261"
+    }
+  ],
+  "settings": {}
+}

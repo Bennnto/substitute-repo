@@ -1,0 +1,22 @@
+{
+  "backup_info": {
+    "created": "2025-08-01T21:49:13.432350",
+    "version": "1.0",
+    "total_jobs": 1,
+    "total_reminders": 0
+  },
+  "config": {
+    "jobs": [
+      {
+        "id": 1,
+        "name": "Backup Job",
+        "schedule": "Custom",
+        "command": "System backup",
+        "logging": "No logging",
+        "enabled": true,
+        "created": "2025-08-01T20:49:54.539261"
+      }
+    ],
+    "settings": {}
+  }
+}
