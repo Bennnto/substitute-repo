@@ -1,8 +1,0 @@
-{
-  "theme": "default",
-  "auto_backup": true,
-  "log_directory": "/Users/ben/cron_logs",
-  "default_editor": "nano",
-  "show_statistics": true,
-  "enable_logging": true
-}
